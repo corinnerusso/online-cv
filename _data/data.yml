@@ -14,10 +14,9 @@ sidebar:
     # Sidebar links
     email: corinne.russo@gmail.com  
     phone: +33 6 21 64 69 54    
-    website: 
-    linkedin: linkedin.com/in/corinne-russo
+    website: #do not add http://
+    linkedin: corinne_russo
     github: corinnerusso
-    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -46,15 +45,16 @@ sidebar:
         link:
 
 career-profile:
-    title: A propos
+    title: Pour mieux me connaître
     summary: |
-    Après plusieurs années d'expérience dans les secteurs du tourisme et de l'associatif lié au handicap, j'ai fait le choix d'opérer un tournant dans ma carrière professionnelle.
-    Attirée par les métiers du web, j'ai passé sur mon temps libre la Certification HTML et CSS d'Openclassrooms. Cette formation en ligne m'a confortée dans le choix de ma future orientation et j'ai été sélectionnée pour intégrer la formation diplômante intensive de 5 mois de Développeur web à la Wild Code School de Bordeaux.
-    Je me suis orientée vers le langage React.Js pour le front, et NodeJS pour le back. Lors de mon stage à Cyberens, j'ai découvert deux nouveaux langages, VueJs 2 et TypeOrm et j'ai apprécié d'élargir mes compétences.
+        Après plusieurs années d'expérience dans les secteurs du tourisme et de l'associatif lié au handicap, j'ai fait le choix d'opérer un tournant dans ma carrière professionnelle.
+        Attirée par les métiers du web, j'ai passé sur mon temps libre la Certification HTML et CSS d'Openclassrooms. Cette formation en ligne m'a confortée dans le choix de ma future orientation et j'ai été sélectionnée pour intégrer la formation diplômante intensive de 5 mois de Développeur web à la Wild Code School de Bordeaux.
+        Je me suis orientée vers le langage React.Js pour le front, et NodeJS pour le back. Lors de mon stage à Cyberens, j'ai découvert deux nouveaux langages, VueJs 2 et TypeOrm et j'ai apprécié d'élargir mes compétences.
     
-    Je m'auto-forme désormais au langage PHP via OpenClassrooms et Grafikart, pour renforcer mes compétences en back end.
+        Je m'auto-forme désormais au langage PHP via OpenClassrooms et Grafikart, pour renforcer mes compétences en back end.
     
-    Je suis ouverte à toutes les opportunités de travail dans le développement web sur la Gironde.
+        Je suis ouverte à toutes les opportunités de travail dans le développement web sur la Gironde.
+        
 education:
     - degree: MSc in Computer Science
       university: University of London
