@@ -73,21 +73,18 @@ education:
       time: 2003/05
       details: |
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Développeuse web
+      time: Fev - Juin 2020 (4 mois)
+      company: Cyberens, Bordeaux
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Réalisation d'une plateforme d'auto-diagnostique de la cybersécurité d'une entreprise.
+        Le principe est de répondre à un questionnaire correspondant à la taille de l'entreprise, et de consulter les résultats sous forme de graphiques afin de poser un premier état des lieux de l'état de santé cybersécurité d'une entreprise.
+        Outils de développement : 
+          - VueJs 2 (front)
+          - Typeorm (back)
+          - Gitlab
+          - Figma (outil de wireframe)
+          - Apexcharts (librairie de graphiques)
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
