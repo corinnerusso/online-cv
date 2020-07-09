@@ -56,28 +56,22 @@ career-profile:
         Je suis ouverte à toutes les opportunités de travail dans le développement web sur la Gironde.
         
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Titre professionnel développeur web et web mobile - RNCP niveau III (en cours)
+      university: Wild Code School
+      time: 2019/20
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Certification création d'un site web en HTML/CSS
+      university: Openclassrooms
+      time: 2019 sur temps libre
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Licence et Master Management du tourisme
+      university: Universités de Perpignan et Madrid
+      time: 2005/08
+      details: |
+    - degree: DUT Techniques de commercialisation
+      university: Grenoble
+      time: 2003/05
+      details: |
 experiences:
     - role: Lead Developer
       time: 2015 - Present
