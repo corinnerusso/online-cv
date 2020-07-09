@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -37,21 +37,23 @@ sidebar:
 
     interests:
       - item: Langages web
-        link:Initiations à React Native, PHP
+        link:
 
       - item: Voyages, randonnées, pilates
         link:
 
       - item: Forte sensibilité à la cause animale et environnementale
-        link:Fabrication écologique de produits cosmétiques et ménagers
+        link:
 
 career-profile:
     title: A propos
     summary: |
-     Après plusieurs années d'expérience dans les secteurs du tourisme et de l'associatif lié au handicap, j'ai fait le choix d'opérer un tournant dans ma carrière professionnelle.
-    Attirée par les métiers du web, j'ai passé sur mon temps libre la Certification HTML et CSS d'Openclassrooms. Cette formation en ligne m'a confortée dans le choix de ma future orientation, et suite à une sélection par le biais d'un entretien et la réalisation d'un site statique, j'ai été sélectionnée pour intégrer la formation diplômante intensive de 5 mois de Développeur web à la Wild Code School de Bordeaux.
-    Séduite par le Front End, je me suis orientée vers le langage React.Js, et NodeJS pour le back. Lors de mon stage à Cyberens, j'ai découvert deux nouveaux langages : VueJs 2 et TypeOrm et j'ai apprécié d'élargir mes compétences.
-    Je m'auto-forme désormais au langage PHP via OpenClassrooms et Grafikart, pour consolider mes compétences en back end.
+    Après plusieurs années d'expérience dans les secteurs du tourisme et de l'associatif lié au handicap, j'ai fait le choix d'opérer un tournant dans ma carrière professionnelle.
+    Attirée par les métiers du web, j'ai passé sur mon temps libre la Certification HTML et CSS d'Openclassrooms. Cette formation en ligne m'a confortée dans le choix de ma future orientation et j'ai été sélectionnée pour intégrer la formation diplômante intensive de 5 mois de Développeur web à la Wild Code School de Bordeaux.
+    Je me suis orientée vers le langage React.Js pour le front, et NodeJS pour le back. Lors de mon stage à Cyberens, j'ai découvert deux nouveaux langages, VueJs 2 et TypeOrm et j'ai apprécié d'élargir mes compétences.
+    
+    Je m'auto-forme désormais au langage PHP via OpenClassrooms et Grafikart, pour renforcer mes compétences en back end.
+    
     Je suis ouverte à toutes les opportunités de travail dans le développement web sur la Gironde.
 education:
     - degree: MSc in Computer Science
