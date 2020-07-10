@@ -94,18 +94,14 @@ experiences:
           - Technologies : React.JS / Node.JS / Javascript ES6 / SQL / HTML5 / CSS3.
           - Environnement : Linux Ubuntu / Visual Studio Code / Git & Github.
           - Méthodologie Agile Scrum / Merise.
-          
        Wassupseries 
        Application de tracking de séries : sélection, compteur d'heures de visionnage, système de récompense. Réalisée en équipe de 4 développeurs.
           - Technologies : React.JS / Javascript ES6 / SQL / HTML5 / CSS3. 
           - Environnement : Linux Ubuntu / Visual Studio Code / Git & Github.
           - Méthodologie Agile Scrum.
-       
        Mind Space
        Mini jeu réalisée en équipe de 4 personnes à l'occasion d'un hackathon de 30 heures.
        Réalisé en ReactJs : https://mind-space.netlify.com/
-       
-
 projects:
     title: Projects
     intro: >
