@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Corinne Russo
     tagline: Développeuse web junior
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: corinne.russo@gmail.com  
