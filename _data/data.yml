@@ -104,6 +104,14 @@ experiences:
         Mind Space
         Mini jeu réalisée en équipe de 4 personnes à l'occasion d'un hackathon de 30 heures.
         Réalisé en ReactJs https://mind-space.netlify.com/
+    - role: Assistante de service de la coordination nationale
+      time: 2014-19
+      company: UNADEV - Union Nationale des Aveugles et déficients visuels
+      details: |
+        - Assistanat du responsable dans ses missions dans ses missions de développement et de pilotage.
+        - Communication ascendante et descendante entre les centres en région et le siège.
+        - Participation à l'élaboration et au contrôle des budgets.
+        - Vérification de l'application des procédures.
 projects:
     title: Projects
     intro: >
