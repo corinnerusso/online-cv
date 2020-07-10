@@ -74,8 +74,8 @@ education:
       details: |
 experiences:
     - role: Développeuse web
-      time: Fev - Juin 2020 (4 mois)
-      company: Cyberens, Bordeaux
+      time: Mars - Juin 2020 (4 mois)
+      company: Cyberens Technologies & Services, Bordeaux
       details: |
         Réalisation d'une plateforme d'auto-diagnostique de la cybersécurité d'une entreprise.
         Le principe est de répondre à un questionnaire correspondant à la taille de l'entreprise, et de consulter les résultats sous forme de graphiques afin de poser un premier état des lieux de l'état de santé cybersécurité d'une entreprise.
@@ -85,28 +85,27 @@ experiences:
           - Gitlab
           - Figma (outil de wireframe)
           - Apexcharts (librairie de graphiques)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Projets de développement
+      time: 2019-20
+      company: Wild Code School
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Foot Connect
+        Application de gestion d'équipes et de clubs de football, réalisée en équipe de 4 développeurs.
+          - Technologies : React.JS / Node.JS / Javascript ES6 / SQL / HTML5 / CSS3.
+          - Environnement : Linux Ubuntu / Visual Studio Code / Git & Github.
+          - Méthodologie Agile Scrum / Merise.
+          
+       Wassupseries 
+       Application de tracking de séries : sélection, compteur d'heures de visionnage, système de récompense. Réalisée en équipe de 4 développeurs.
+          - Technologies : React.JS / Javascript ES6 / SQL / HTML5 / CSS3. 
+          - Environnement : Linux Ubuntu / Visual Studio Code / Git & Github.
+          - Méthodologie Agile Scrum.
+       
+       Mind Space
+       Mini jeu réalisée en équipe de 4 personnes à l'occasion d'un hackathon de 30 heures.
+       Réalisé en ReactJs : https://mind-space.netlify.com/
+       
+
 projects:
     title: Projects
     intro: >
