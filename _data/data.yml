@@ -187,9 +187,12 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 
+        level: 70%
 
       - name: VueJs 2 , Vuetify
+        level: 70%
+        
+      - name: Typeorm
         level: 70%
 
       - name: ReactJs
@@ -198,11 +201,11 @@ skills:
       - name: NodeJs
         level: 60%
 
-      - name: Typeorm
-        level: 70%
+      - name: MySql
+        level: 60%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS 
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Corinne RUSSO
