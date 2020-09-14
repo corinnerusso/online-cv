@@ -49,15 +49,12 @@ career-profile:
     title: Pour mieux me connaître
     summary: |
         Après plusieurs années d'expérience dans les secteurs du tourisme et de l'associatif lié au handicap, j'ai fait le choix d'opérer un tournant dans ma carrière professionnelle.
-        Attirée par les métiers du web, j'ai passé sur mon temps libre la Certification HTML et CSS d'Openclassrooms. Cette formation en ligne m'a confortée dans le choix de ma future orientation et j'ai été sélectionnée pour intégrer la formation diplômante intensive de 5 mois de Développeur web à la Wild Code School de Bordeaux.
-        Je me suis orientée vers le langage React.Js pour le front, et NodeJS pour le back. Lors de mon stage à Cyberens, j'ai découvert deux nouveaux langages, VueJs 2 et TypeOrm et j'ai apprécié d'élargir mes compétences.
+        Confortée après une initiation au code, j'ai choisi de suivre la formation diplomante de développeur web et mobile à la Wild Code School, spécialité front end. J'ai à mon actif plusieurs projets full stack, dont le dernier avec les technologies Vue.js, Typescript (TypeOrm) et Node.js.
     
-        Je m'auto-forme désormais au langage PHP via OpenClassrooms et Grafikart, pour renforcer mes compétences en back end.
-    
-        Je suis ouverte à toutes les opportunités de travail dans le développement web sur la Gironde.
+        Je cherche des opportunités de travail dans le développement web sur la Gironde.
         
 education:
-    - degree: Titre professionnel développeur web et web mobile - RNCP niveau III (en cours)
+    - degree: Titre professionnel développeur web et web mobile - RNCP niveau III (résultat en attente)
       university: Wild Code School
       time: 2019/20
       details: |
@@ -78,22 +75,18 @@ experiences:
       time: Mars - Juin 2020 (4 mois)
       company: Cyberens Technologies & Services, Bordeaux
       details: |
-        Réalisation d'une plateforme d'auto-diagnostique de la cybersécurité d'une entreprise.
-        Le principe est de répondre à un questionnaire correspondant à la taille de l'entreprise, et de consulter les résultats sous forme de graphiques afin de poser un premier état des lieux de l'état de santé cybersécurité d'une entreprise.
-        Outils de développement : 
-          - Vue.js (front)
-          - Node.js (back)
-          - Gitlab
-          - Figma (outil de wireframe)
-          - Apexcharts (librairie de graphiques)
-          - Trello
+        Réalisation d'une plateforme de diagnostique du niveau de cybersécurité d'une entreprise.
+        Ce site permet à l'utilisateur de répondre à un QCM correspondant à la taille de son entreprise, et d'en visualiser les résultats sous forme de graphiques.
+          - Technologies : Vue.js et Vuetify / Node.js et TypeOrm / Apexcharts (librairie pour graphiques).
+          - Environnement : Windows / Visual Studio Code / Git & Gitlab.
+          - Outil de wireframe : Figma
     - role: Projets de développement
       time: 2019-20
       company: Wild Code School, Bordeaux
       details: |
         Foot Connect
         Application de gestion d'équipes et de clubs de football, réalisée en équipe de 4 développeurs.
-          - Technologies : React.JS / Node.JS / Javascript ES6 / SQL / HTML5 / CSS3.
+          - Technologies : React.JS / Node.JS.
           - Environnement : Linux Ubuntu / Visual Studio Code / Git & Github.
           - Méthodologie Agile Scrum / Merise.
           
